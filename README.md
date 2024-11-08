@@ -2,7 +2,7 @@
     <img src="https://github.com/user-attachments/assets/f7f80598-5551-4cf4-bbaf-54020344a12f" alt="Capa do Repositório"> 
 </div>
 
-![Status](http://img.shields.io/static/v1?label=STATUS&message=Em-Desenvolvimento&color=yellow&style=for-the-badge)
+![Status](http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=green&style=for-the-badge)
 
 ### Descrição do Repositório
 
